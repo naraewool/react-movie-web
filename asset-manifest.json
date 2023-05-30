@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-movie-web.git/static/css/main.e6c13ad2.css",
+    "main.js": "/react-movie-web.git/static/js/main.a8816c53.js",
+    "static/js/787.80ff975f.chunk.js": "/react-movie-web.git/static/js/787.80ff975f.chunk.js",
+    "index.html": "/react-movie-web.git/index.html",
+    "main.e6c13ad2.css.map": "/react-movie-web.git/static/css/main.e6c13ad2.css.map",
+    "main.a8816c53.js.map": "/react-movie-web.git/static/js/main.a8816c53.js.map",
+    "787.80ff975f.chunk.js.map": "/react-movie-web.git/static/js/787.80ff975f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a8816c53.js"
+  ]
+}
